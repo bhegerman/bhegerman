@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bhegerman
 - I’m interested in Networking and Cyber Security.
-- I’m currently learning my CCNA certification.
-- I’m looking to collaborate on Network Automation.
 - How to reach me Brendan.Heg@protonmail.com
 
 <!---
